@@ -1,2 +1,4 @@
 # hello-world
-Hello World
+Hello Humans!
+
+Welcome to hello-world, the world of hello.
